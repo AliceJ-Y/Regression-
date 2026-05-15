@@ -46,16 +46,14 @@ Congratulations you have now pulled the content of the repository on your Notabl
 ## Install the libraries 
 ```
 install.packages("tidyverse")
-install.packages("lme4")
 install.packages("effects") 
 install.packages("sjPlot") 
-install.packages("interactions")
+
 
 library("tidyverse") #for cleaning and sorting out data
-library("lme4") #for fitting linear mixed-effects models (LMMs)
 library("effects") #for creating tables and graphics that illustrate effects in linear models
 library("sjPlot") #for plotting models
-library("interactions") #for plotting interaction effects
+
 ``` 
 
 # What you are going to find in this repo
