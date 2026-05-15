@@ -1,4 +1,4 @@
-# Regression And Mixed Effects Modelling
+# Linear Regression with R
 
 This course will introduce you to linear regression. It will help to develop your theoretical understanding and practical skills for running simple and multipl regression models in R.
 
