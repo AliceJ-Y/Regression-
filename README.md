@@ -1,24 +1,22 @@
 # Regression And Mixed Effects Modelling
 
-This course will introduce you to linear mixed-effects models (LMMs). It will help to develop your theoretical understanding and practical skills for running such models in R.
+This course will introduce you to linear regression. It will help to develop your theoretical understanding and practical skills for running simple and multipl regression models in R.
 
-Linear mixed-effects models are powerful and flexible statistical tools that help us understand the world. This is particularly useful in language sciences when our aim is to investigate the influence of one or more predictor factors (e.g., time spent on the Internet per week) on a particular linguistic phenomenon that we are interested in (AKA. an outcome variable; e.g., people’s tendency to use internet slang in face-to-face communication). In these cases, we often need to account for the individual differences among people who take part in the study. Linear mixed models allow us to do this and more!
+Linear regression models are statistical tools that help us understand linear relationships between different factors. This is particularly useful when your aim is to investigate the influence of one or more predictor factors (e.g., sugar consumption) on a particular variable that we are interested in (AKA. an outcome variable; e.g., diagnosis of diabetes).
 
-This course includes three 2-hour sessions. Session 1 is mainly conceptual. We will first recall linear regressions and discuss how linear mixed-effects regressions differ from it and why we want to use mixed-effects models. Sessions 2 and 3 are more practical in that we will go through a real dataset from a sociolinguistic study to demonstrate how to run LMMs in R using the lme4 package (Bates, Mächler, Bolker, and Walker, 2015). You will also have the opportunity to try it out yourself by analysing a made-up psycholinguistic dataset using LMMs in R.
+This course includes two 2-hour sessions. Each session includes both concuptual discussions about the rationale of regression modelling and R programming practical. Using real data collected by the Scottish Government, we will explore how different aspects of everyday living are related. 
 
-By the end of the course, you will understand the following concepts of LMMs and know how to construct LMMs in R.  
+By the end of the course, you will understand the following concepts of LMMs and know how to construct linear regressions in R.  
 
-- Model structure (fixed and random effects)
-- Coefficients (intercepts and slopes)
-- Model fit
-- Model Selection
-- Model Assumptions
+- Basic Concepts 
+- Model Structure 
+- Model Results Interpretation  
+- Model Comparison and Selection
+- Model Assumption Chekcs
 
-This course is an advanced training course. It requires a basic understanding of R and statistical analyses. Some general knowledge of regression is not mandatory but will help you follow the content of this course. The lme4 package should be downloaded and installed prior to participating in this workshop
+This course is an intermediate-level training course. It requires a basic understanding of R and inferential statistics. Relevant R packages including "tidyverse",  "effects" and "sjPlot" should be downloaded and installed prior to participating in this workshop.
 
 # Getting Set-up
-We are fine-tuning the course materials now, thus want to run a quick pre-course survey in order to best accommodate your needs. 
-Please complete this survey [https://edinburgh.eu.qualtrics.com/jfe/form/SV_3vBauQjl9YdI5o2](https://edinburgh.eu.qualtrics.com/jfe/form/SV_3vBauQjl9YdI5o2) by 5 PM the day before the first session. 
 
 # Installing R and Packages needed 
 ## Installing R and R Studio
