@@ -1,6 +1,6 @@
 # Linear Regression with R
 
-This course will introduce you to linear regression. It will help to develop your theoretical understanding and practical skills for running simple and multipl regression models in R.
+This course will introduce you to linear regression. It will help to develop your theoretical understanding and practical skills for running simple and multiple regression models in R.
 
 Linear regression models are statistical tools that help us understand linear relationships between different factors. This is particularly useful when your aim is to investigate the influence of one or more predictor factors (e.g., sugar consumption) on a particular variable that we are interested in (AKA. an outcome variable; e.g., diagnosis of diabetes).
 
